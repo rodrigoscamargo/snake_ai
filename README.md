@@ -6,7 +6,6 @@
 </p>
 
 ## Conteúdo
-- [Conteúdo](#conteúdo)
 - [Sobre o projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Links](#links)
