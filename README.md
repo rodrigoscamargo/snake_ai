@@ -6,6 +6,7 @@
 </p>
 
 ## Conteúdo
+- [Conteúdo](#conteúdo)
 - [Sobre o projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Links](#links)
@@ -33,7 +34,7 @@ O jogo consiste em um agente (cobra) que precisa coletar frutas evitando colidir
 ## Links
 
  - Aplicação [Snake IA](https://snakev1.netlify.app/)
- - Video [YouTube]()
+ - Video [YouTube](https://youtu.be/zbCw-Ju8I0M)
 
 ## Licença
 
